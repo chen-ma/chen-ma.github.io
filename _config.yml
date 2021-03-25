@@ -19,9 +19,9 @@ email: mchenl511@gmail.com
 description: a website about me
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: matthew chen
+author: 
   name: matthew chen
-  twitter: matthewchen_
+  twitter:
   picture: 
 twitter_username: matthewchen_
 github_username: chen-ma
