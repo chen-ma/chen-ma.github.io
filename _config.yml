@@ -22,7 +22,7 @@ url: # the base hostname & protocol for your site e.g. "https://mmistakes.github
 author: 
   name: matthew chen
   twitter:
-  picture: 
+  picture: assets/images/crack.jpg
 twitter_username: matthewchen_
 github_username: chen-ma
 logo: # path of site logo, e.g. "/assets/images/logo.png"
