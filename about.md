@@ -1,7 +1,7 @@
 ---
 title: "About"
-layout: default
+layout: about
 ---
+this page is all about me
 
-test
--test
+still about me
